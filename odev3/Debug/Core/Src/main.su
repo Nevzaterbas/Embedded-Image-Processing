@@ -1,0 +1,9 @@
+main.c:58:9:get_pixel	24	static
+main.c:64:6:Apply_Otsu	1096	static
+main.c:100:6:Apply_Erosion	40	static
+main.c:117:6:Apply_Dilation	40	static
+main.c:138:5:main	8	static
+main.c:169:6:SystemClock_Config	88	static
+main.c:208:13:MX_USART2_UART_Init	8	static
+main.c:227:13:MX_GPIO_Init	24	static
+main.c:238:6:Error_Handler	4	static,ignoring_inline_asm
