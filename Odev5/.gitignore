@@ -1,0 +1,7 @@
+# Python sanal ortamlarini yoksay
+venv310/
+Odev5/venv310/
+**/venv310/
+*.dll
+*.pyd
+__pycache__/
