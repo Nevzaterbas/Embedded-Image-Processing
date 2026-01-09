@@ -1,0 +1,11 @@
+{
+  "model": "efficientnet_b0",
+  "epochs": 8,
+  "batch": 32,
+  "lr": 0.001,
+  "img": 64,
+  "test_loss": 0.03496088460087776,
+  "test_accuracy": 0.9902999997138977,
+  "train_time_sec": 6951.365363836288,
+  "params": 4062381
+}

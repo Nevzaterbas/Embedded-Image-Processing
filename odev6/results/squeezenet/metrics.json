@@ -1,0 +1,11 @@
+{
+  "model": "squeezenet",
+  "epochs": 8,
+  "batch": 64,
+  "lr": 0.001,
+  "img": 64,
+  "test_loss": 2.3025825023651123,
+  "test_accuracy": 0.09799999743700027,
+  "train_time_sec": 1151.63330245018,
+  "params": 727626
+}
